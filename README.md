@@ -1,5 +1,13 @@
-<h1 align="center">Per mancanza di nomi migliori,sono CarlosJoseIsNaN</h1>
+<h1 align="center">For the lack of a better name, I'm CarlosJoseIsNaN</h1>
 <h3 align="center">Segmentation errors since '08</h3>
+
+- 🧑‍💻 First (and only) project is a barely working calculator **4 operations calculator (Java and C)**
+
+- 🖥️ Been locked on Vim for as long as I can remember **⠀**
+
+- 💡 Professional static short-circuiter **⠀**
+
+- 🙅‍♂️ Never include .gitignore in your commits **⠀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
