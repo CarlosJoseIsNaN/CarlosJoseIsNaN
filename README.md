@@ -1,7 +1,7 @@
 <h1 align="center">For the lack of a better name, I'm CarlosJoseIsNaN</h1>
 <h3 align="center">Segmentation errors since '08</h3>
 
-- 🧑‍💻 First (and only) project is a barely working calculator **4 operations calculator (Java and C)**
+- 🧑‍💻 First (and only) project is a barely working calculator **⠀**
 
 - 🖥️ Been locked on Vim for as long as I can remember **⠀**
 
